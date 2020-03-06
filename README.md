@@ -54,5 +54,5 @@ For the input file, please keep the same format as the attached sample input fil
 * Code/Models under MIT license.
 * If you find these predictions useful, please cite the following article:
 ```
-M. Ahmed, H. Jalily, S. Kalayaanoorty and K. Barakat, (2020) XX,XXX,XXX ....
+M. Ahmed, H. Jalily, S. Kalyaanamoorthy and K. Barakat, GPCR_LigandClassify.py, A Rigorous Machine Learning Classifier For GPCR Ligands To Address The Problem Of Drug Repurposing And Poly-pharmacology, (2020)...
 ```
