@@ -51,8 +51,8 @@ For the input file, please keep the same format as the attached sample input fil
 
 * Main contributor: Marawan Ahmed (mmahmed@ualberta.ca).
 * Models were dveloped using Computecanada clusters.
-* Code/Models are distributed under the standard MIT license.
+* Code/Models are distributed under the standard MIT license for non-commercial users. Commercial users should contact the authors.
 * If you find these predictions useful, please cite the following article:
 ```
-M. Ahmed, H. Jalily, S. Kalyaanamoorthy and K. Barakat, GPCR_LigandClassify.py, A Rigorous Machine Learning Classifier For GPCR Ligands To Address The Problem Of Drug Repurposing And Poly-pharmacology, (2020)...
+M. Ahmed, H. Jalily, S. Kalyaanamoorthy and K. Barakat, GPCR_LigandClassify.py; A Rigorous Machine Learning Classifier For GPCR Ligands To Address The Problem Of Drug Repurposing And Poly-pharmacology, (2020)...
 ```
