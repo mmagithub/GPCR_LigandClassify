@@ -2,7 +2,7 @@
 
 ===================================
 
-** The following python librares are required to run the models: **
+** The following python libraries are required to run the models: **
 
 * Python 2.7 (tested with Anaconda distribution, Linux OS (Mint 19.1 for a local PC, and 3.10.0-957.12.2.el7.x86_64 GNU/Linux for ComputeCanada clusters). Running the models on MAC may be cumbersome because of the recent XGBoost updates. We did not test the prediction on Windows.)
 * DeepChem 1.x (Require RDKit)
