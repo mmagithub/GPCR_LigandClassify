@@ -40,7 +40,7 @@ python GPCR_LigandClassify.py --input_file input.csv --output_file output.csv [-
 
 *Please note that a today date string will be attached to the output file name.
 
-*Please note that the script will only save ligands where all models predictions agree.
+*Please note that the script will only save ligands where all predictions agree.
 
 For the input file, please keep the same format as the attached sample input file (drug bank data file). In case of data coming from different source, with the exception of the SMILES column, other columns may be left blank (not recommended). You can populate the rest of columns with fake data.
 
