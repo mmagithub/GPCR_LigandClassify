@@ -12,7 +12,7 @@
 * XGBoost
 * ScikitLearn
 
-** In order for the script to run, and in addition to the input file (see below), the following files should exist in the running directory: **
+** In order to run the script, and in addition to the input file (see below), the following files should exist in the running directory: **
  
 * dl_model_fp.json
 * dl_model_fp.h5
