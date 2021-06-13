@@ -27,7 +27,7 @@ NB: The rfc_rdkit_classify_fp.sav & svm_rdkit_classify_fp.sav & mlp_rdkit_classi
 
 ################################
 
-** This is how you can use the program using the models to make novel predictions: **
+** This is how you can use the models to make novel predictions: **
 ```
 python GPCR_LigandClassify.py --input_file input.csv --output_file output.csv [--n_rows_to_read <INTEGER>] [--mwt_lower_bound <FLOAT>] [--mwt_upper_bound <FLOAT>] [--logp_lower_bound <FLOAT>] [--logp_upper_bound <FLOAT>] [--ignore_rf_svm <True/False>]
 ```
